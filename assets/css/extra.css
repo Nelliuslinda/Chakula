@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Comfortaa', cursive;
+    
+}
+.msg-success{
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(115, 245, 115);
+    /* border: 1px solid #FFF; */
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+
+}
+
+.msg-success li{
+    list-style: none;
+
+}
+
+.msg-error{
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(245, 134, 115);
+    border: 1px solid #FFF;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+
+}
+.msg-error li{
+    list-style: none;
+
+}

@@ -1,0 +1,13 @@
+.clearfix{
+    float: none;
+    clear: both;
+}
+
+.col-4{
+    width: 18%;
+    background-color: rgb(255, 255, 255);
+    margin: 1%;
+    padding: 2%;
+    text-align: center;
+    float: left;
+}

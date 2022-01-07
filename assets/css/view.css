@@ -1,0 +1,19 @@
+.cards{
+   display: grid;
+   grid-template-columns: 100px 50px 100px;
+   grid-template-rows: 80px auto 80px;
+   gap: 15px 10px;
+   margin-top: 1rem;
+}
+.card-single{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    border-radius: 2px;
+}
+.card-single span{
+    color: grey;
+}
+.card-single span{
+    font-size: 16px;
+}

@@ -1,0 +1,15 @@
+.totalprice{
+    display: flex;
+    justify-content: flex-end;
+}
+.totalprice table{
+    border-top: 3px solid #ddca1e;
+    width: 100%;
+    max-width: 400px;
+}
+td:last-child{
+    text-align: right;
+}
+th:last-child{
+    text-align: right;
+}
